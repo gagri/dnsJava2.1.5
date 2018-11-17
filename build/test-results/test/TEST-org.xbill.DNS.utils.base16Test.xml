@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.xbill.DNS.utils.base16Test" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-11-17T16:37:31" hostname="DESKTOP-HM31OVF" time="0.0">
+  <properties/>
+  <testcase name="test_toString_emptyArray" classname="org.xbill.DNS.utils.base16Test" time="0.0"/>
+  <testcase name="test_fromString_emptyString" classname="org.xbill.DNS.utils.base16Test" time="0.0"/>
+  <testcase name="test_fromString_nonHexChars" classname="org.xbill.DNS.utils.base16Test" time="0.0"/>
+  <testcase name="test_fromString_normal" classname="org.xbill.DNS.utils.base16Test" time="0.0"/>
+  <testcase name="test_fromString_invalidStringLength" classname="org.xbill.DNS.utils.base16Test" time="0.0"/>
+  <testcase name="test_toString_array1" classname="org.xbill.DNS.utils.base16Test" time="0.0"/>
+  <testcase name="test_toString_singleByte1" classname="org.xbill.DNS.utils.base16Test" time="0.0"/>
+  <testcase name="test_toString_singleByte2" classname="org.xbill.DNS.utils.base16Test" time="0.0"/>
+  <testcase name="test_toString_singleByte3" classname="org.xbill.DNS.utils.base16Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

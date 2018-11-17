@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-11-17T16:37:31" hostname="DESKTOP-HM31OVF" time="0.012">
+  <properties/>
+  <testcase name="test_toobig_longitude" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.0"/>
+  <testcase name="test_toobig_latitude" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.0"/>
+  <testcase name="test_toosmall_latitude" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.0"/>
+  <testcase name="test_toosmall_longitude" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.001"/>
+  <testcase name="test_basic" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.0"/>
+  <testcase name="test_invalid_string" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.0"/>
+  <testcase name="test_toobig_longitude" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.0"/>
+  <testcase name="test_toobig_latitude" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.0"/>
+  <testcase name="test_toosmall_latitude" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.0"/>
+  <testcase name="test_toosmall_longitude" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.001"/>
+  <testcase name="test_basic" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.0"/>
+  <testcase name="test_invalid_string" classname="org.xbill.DNS.GPOSRecordTest$Test_Ctor_6arg_doubles" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

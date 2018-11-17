@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.xbill.DNS.TTLTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-11-17T16:37:31" hostname="DESKTOP-HM31OVF" time="0.0">
+  <properties/>
+  <testcase name="test_format_invalid" classname="org.xbill.DNS.TTLTest" time="0.0"/>
+  <testcase name="test_format" classname="org.xbill.DNS.TTLTest" time="0.0"/>
+  <testcase name="test_parseTTL" classname="org.xbill.DNS.TTLTest" time="0.0"/>
+  <testcase name="test_parseTTL_invalid" classname="org.xbill.DNS.TTLTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

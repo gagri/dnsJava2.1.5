@@ -1,4 +1,4 @@
-<project name="dnsjava" default="all" basedir=".">
+<project name="dnsjava2.1.5" default="all" basedir=".">
     <property name="build_dir" value="${basedir}"/>
     <property name="src_dir" value="${basedir}"/>
     <property name="doc_dir" value="${basedir}/doc"/>

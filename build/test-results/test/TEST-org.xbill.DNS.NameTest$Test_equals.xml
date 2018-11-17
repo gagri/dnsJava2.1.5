@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.xbill.DNS.NameTest$Test_equals" tests="14" skipped="0" failures="0" errors="0" timestamp="2018-11-17T16:37:31" hostname="DESKTOP-HM31OVF" time="0.023">
+  <properties/>
+  <testcase name="test_null" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_same" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_abs" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_rel" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_notName" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_mixed" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_weird" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_null" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_same" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_abs" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_rel" classname="org.xbill.DNS.NameTest$Test_equals" time="0.001"/>
+  <testcase name="test_notName" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_mixed" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <testcase name="test_weird" classname="org.xbill.DNS.NameTest$Test_equals" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

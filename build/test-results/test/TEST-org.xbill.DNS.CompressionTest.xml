@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.xbill.DNS.CompressionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-17T16:37:31" hostname="DESKTOP-HM31OVF" time="0.001">
+  <properties/>
+  <testcase name="test" classname="org.xbill.DNS.CompressionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Adding www.amazon.com. at 10
+Looking for www.amazon.com., found 10
+Adding www.cnn.com. at 10
+Looking for www.cnn.com., found 10
+]]></system-err>
+</testsuite>

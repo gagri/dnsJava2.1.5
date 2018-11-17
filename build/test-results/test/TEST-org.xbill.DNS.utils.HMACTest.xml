@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.xbill.DNS.utils.HMACTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-11-17T16:37:31" hostname="DESKTOP-HM31OVF" time="0.26">
+  <properties/>
+  <testcase name="test_ctor_digest_key" classname="org.xbill.DNS.utils.HMACTest" time="0.001"/>
+  <testcase name="test_ctor_digestName_key_invalid" classname="org.xbill.DNS.utils.HMACTest" time="0.258"/>
+  <testcase name="test_ctor_digestName_key" classname="org.xbill.DNS.utils.HMACTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

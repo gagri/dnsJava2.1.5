@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.xbill.DNS.NameTest" tests="29" skipped="0" failures="0" errors="0" timestamp="2018-11-17T16:37:31" hostname="DESKTOP-HM31OVF" time="0.001">
+  <properties/>
+  <testcase name="test_relativize" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_to_string" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_wild" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_toString_special_char" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_init_from_name_empty" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_wild_toosmall" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_relativize_root" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_toString_at" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_init_from_name_root" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_toString_abs" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_toString_rel" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_init_from_name" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_wild_toobig" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_concatenate_too_long" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_fromDNAME" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_relativize_disjoint" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_subdomain_abs" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_subdomain_rel" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_toString_root" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_toString_wild" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_fromDNAME_disjoint" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_toString_escaped" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_relativize_null_origin" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_subdomain_equal" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_fromDNAME_toobig" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_concatenate_abs_prefix" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_concatenate_basic" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_canonicalize" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <testcase name="test_wild_abs" classname="org.xbill.DNS.NameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
